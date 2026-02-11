@@ -16,4 +16,4 @@
 * **Negrilla** 
 * ***Cursiva***
 
-[alt text](prueba.png)
+![prueba.png](prueba.png)
